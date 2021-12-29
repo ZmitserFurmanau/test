@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.text-block {
+    background-color: blue;
+    display: block;
+    width: 80px;
+    height: 21px;
+    overflow: hidden;
+}
+
+.text-block:hover {
+    background-color: red;
+}
